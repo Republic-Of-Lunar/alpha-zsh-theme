@@ -1,0 +1,1 @@
+# alpha-zsh-theme

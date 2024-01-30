@@ -6,7 +6,7 @@ This is Alpha ZSH Theme =)
 > ╰─λ 
 ### Install
 This Guide is just for 'oh-my-zsh'
-> git clone https://gitlab.com/lunar.codespace/alpha-zsh-theme.git<br/>
+> git clone https://github.com/Memory-Studio/alpha-zsh-theme.git<br/>
 > cd alpha-zsh-theme<br/>
 > sudo cp -r alpha.zsh-theme ~/.oh-my-zsh/themes<br/>
 > vi ~/.zshrc<br/>

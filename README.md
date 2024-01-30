@@ -1,7 +1,7 @@
 # Alpha - ZSH Theme
 Hello there =)<br/>
-gitlab: https://gitlab.com/lunar.codespace/alpha-zsh-theme<br/>
-This is Alpha ZSH Theme =)
+gitlab:https://gitlab.com/lunar.codespace/alpha-zsh-theme<br/>
+This is Alpha ZSH Theme =)<br/>
 ### Sample (This sample shows an error, please refer to the actual product)
 > ╭─arch@XeroLinux in ~<br/>
 > ╰─λ 

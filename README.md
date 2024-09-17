@@ -5,7 +5,7 @@ This is Alpha ZSH Theme =)<br/>
 ### Sample (This sample shows an error, please refer to the actual product)
 
 ```
-╭─arch@XeroLinux in ~<br/>
+╭─arch@XeroLinux in ~
 ╰─λ 
 ```
 
